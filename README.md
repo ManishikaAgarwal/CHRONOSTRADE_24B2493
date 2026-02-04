@@ -12,7 +12,6 @@ Classical statistical forecasting using ARIMA
 Deep learning approaches using Long Short-Term Memory (LSTM) networks
 
 Sentiment analysis from financial news using TextBlob
-
 Multimodal learning by combining price history with textual sentiment
 
 Comparative evaluation of models under realistic forecasting setups
