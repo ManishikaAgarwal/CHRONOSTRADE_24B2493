@@ -1,6 +1,6 @@
 # CHRONOSTRADE_24B2493
 
-Kronos Trade — Time Series Forecasting & Sentiment-Driven Stock Prediction (WiDS)
+Cronos Trade — Time Series Forecasting & Sentiment-Driven Stock Prediction (WiDS)
 Overview
 
 This repository contains the complete implementation and experimentation pipeline for Kronos Trade, a financial time-series forecasting project developed during the Women in Data Science (WiDS) program.
